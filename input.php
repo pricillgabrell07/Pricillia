@@ -35,10 +35,10 @@
                 </div>
                 <div class="mb -3">
                     <label for="jenis" class="form-label">Jenis Kelamin</label>
-                    <input class="jeniskelamin" type="radio" name="jeniskelamin" id="laki" value="Laki-Laki">
-                    <label class="jeniskelamin" for="laki">Laki-Laki
-                    <input class="jeniskelamin" type="radio" name="jeniskelamin" id="perempuan" value="Perempuan" checked>
-                    <label class="jeniskelamin" for="perempuan">Perempuan
+                    <input class="jenis" type="radio" name="jenis" id="laki" value="Laki-Laki">
+                    <label class="jenis" for="laki">Laki-Laki
+                    <input class="jenis" type="radio" name="jenis" id="perempuan" value="Perempuan" checked>
+                    <label class="jenisk" for="perempuan">Perempuan
                     </label>
                 </div>
                 <div class="mb -3">
