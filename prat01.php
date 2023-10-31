@@ -12,7 +12,7 @@
             <div class="col -6">
             <h1>Form Registrasi</h1>
             <p>Isi Data Dibawah ini:</p>
-            <form action="output.php" method="post">
+            <form action="prat02.php" method="post">
                 <div class="mb -3">
                     <label for="nama" class="form-label">Nama</label>
                     <input type="text" class="form-control" name="nama" id="nama" 
