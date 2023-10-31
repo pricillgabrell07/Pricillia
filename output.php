@@ -11,7 +11,7 @@
     $alamat=$_POST['alamat'];
     $tempat=$_POST['tempat'];
     $tanggal=$_POST['tanggal'];
-    $jeniskelamin=$_POST['jeniskelamin'];
+    $jenis=$_POST['jenis'];
     $pendidikanterakhir=$_POST['pendidikanterakhir'];
     ?>
     <div class="row">
@@ -40,7 +40,7 @@
             <tr>
                 <td>Jenis Kelamin</td>
                 <td>:</td>
-                <td><?= $jeniskelamin;?></td>
+                <td><?= $jenis;?></td>
             </tr>
             <tr>
                 <td>Pendidikan</td>
